@@ -1,0 +1,15 @@
+{
+  "name": "1",
+  "description": "Levo SL ",
+  "image": "ipfs://bafybeibr3phbn4a4t2wniveh5cqnlale6uorqc6n75auu5bjo46nvbyoza/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Dank"
+    },
+    {
+      "trait_type": "Power",
+      "value": "10x"
+    }
+  ]
+}
